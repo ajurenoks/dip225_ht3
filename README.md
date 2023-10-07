@@ -14,7 +14,7 @@ Remember, the goal is to find out if using Nordpool electricity rates would be m
 At the start of the program, please input the path to the invoice PDF file. For instance, you can enter `invoices/invoice1.pdf`.
 
 ### Output data
-The program should output a result in float format, rounded to one decimal place. This figure represents the potential savings or extra costs when using Nordpool electricity prices, compared to the fixed electricity price noted in your invoice.
+The program should output a result in float format, rounded to one decimal place. This figure represents the potential savings or extra costs when using Nordpool electricity prices, compared to the fixed electricity price noted in your invoice. If the system cannot locate the file, it should return a result of '0'. Similarly, if the electricity consumption is recorded as '0', the output should also be '0'.
 
 ### PDF file structure
 The provided PDF file is an invoice detailing the electricity usage and its associated costs. The total charge is a sum of the electricity cost and other fees related to transfer and management. For this task, we are focusing solely on the price of electricity per kWh.
