@@ -14,3 +14,8 @@ Remember, the goal is to find out if using Nordpool electricity rates would be m
 At the start of the program, please input the path to the invoice PDF file. For instance, you can enter 'invoices/invoice1.pdf'.
 
 ### Output data
+The program should output a result in float format, rounded to one decimal place. This figure represents the potential savings or extra costs when using Nordpool electricity prices, compared to the fixed electricity price noted in your invoice.
+
+### Invoice structure
+
+### nordpool.csv file structure
