@@ -10,7 +10,7 @@ Your assignment is to determine the potential overpayment for electricity when c
 
 Remember, the goal is to find out if using Nordpool electricity rates would be more economical than your current billing rate.
 
-**You should submit your program as result.py file.**
+**You should submit your program as `result.py` file.**
 
 ### Input data
 At the start of the program, please input the path to the invoice PDF file. For instance, you can enter `invoices/invoice1.pdf`.
