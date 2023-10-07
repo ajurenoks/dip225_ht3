@@ -1,2 +1,2 @@
-# dip225_ht3
+# Electricity price analysis task
 PDF file processing task
